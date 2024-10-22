@@ -19,13 +19,13 @@
 
 <div>
 <h1 align="center">Hi 👋, I'm Dilmaya Hamal</h1>
-<h3 align="center">A passionate full-stack web developer from Nepal</h3>
+<h3 align="center">A passionate frontend web developer from Nepal </h3>
 
-- 🔭 I’m currently studying for **diploma in IT**
+- 🔭 I’m currently studying for **Diploma in IT**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **React,Tailwind,Nodejs,Mongodb,Typescript.....**
+- 💬 Ask me about **React,Tailwind,Gsap,Typescript.....**
 </div>
 
 <div>
